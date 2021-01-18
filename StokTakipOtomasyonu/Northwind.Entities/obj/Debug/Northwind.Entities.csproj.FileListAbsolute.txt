@@ -1,0 +1,6 @@
+F:\EnginHocaC#\CokKatmanliMimariOrnegi\Northwind.Entities\bin\Debug\Northwind.Entities.dll
+F:\EnginHocaC#\CokKatmanliMimariOrnegi\Northwind.Entities\bin\Debug\Northwind.Entities.pdb
+F:\EnginHocaC#\CokKatmanliMimariOrnegi\Northwind.Entities\obj\Debug\Northwind.Entities.csprojAssemblyReference.cache
+F:\EnginHocaC#\CokKatmanliMimariOrnegi\Northwind.Entities\obj\Debug\Northwind.Entities.csproj.CoreCompileInputs.cache
+F:\EnginHocaC#\CokKatmanliMimariOrnegi\Northwind.Entities\obj\Debug\Northwind.Entities.dll
+F:\EnginHocaC#\CokKatmanliMimariOrnegi\Northwind.Entities\obj\Debug\Northwind.Entities.pdb

@@ -1,0 +1,14 @@
+F:\EnginHocaC#\CokKatmanliMimariOrnegi\Northwind.DataAccess\bin\Debug\Northwind.DataAccess.dll.config
+F:\EnginHocaC#\CokKatmanliMimariOrnegi\Northwind.DataAccess\bin\Debug\Northwind.DataAccess.dll
+F:\EnginHocaC#\CokKatmanliMimariOrnegi\Northwind.DataAccess\bin\Debug\Northwind.DataAccess.pdb
+F:\EnginHocaC#\CokKatmanliMimariOrnegi\Northwind.DataAccess\bin\Debug\EntityFramework.dll
+F:\EnginHocaC#\CokKatmanliMimariOrnegi\Northwind.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+F:\EnginHocaC#\CokKatmanliMimariOrnegi\Northwind.DataAccess\bin\Debug\Northwind.Entities.dll
+F:\EnginHocaC#\CokKatmanliMimariOrnegi\Northwind.DataAccess\bin\Debug\Northwind.Entities.pdb
+F:\EnginHocaC#\CokKatmanliMimariOrnegi\Northwind.DataAccess\bin\Debug\EntityFramework.xml
+F:\EnginHocaC#\CokKatmanliMimariOrnegi\Northwind.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+F:\EnginHocaC#\CokKatmanliMimariOrnegi\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.csprojAssemblyReference.cache
+F:\EnginHocaC#\CokKatmanliMimariOrnegi\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.csproj.CoreCompileInputs.cache
+F:\EnginHocaC#\CokKatmanliMimariOrnegi\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.csproj.CopyComplete
+F:\EnginHocaC#\CokKatmanliMimariOrnegi\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.dll
+F:\EnginHocaC#\CokKatmanliMimariOrnegi\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.pdb
